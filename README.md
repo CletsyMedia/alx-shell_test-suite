@@ -18,7 +18,7 @@
 
 #### copy & paste each highlighted command to your terminal and press `enter ↲` one after the other
 
-1. `git clone https://github.com/CletsyMedia/alx-shell_test-suite` clone this repo into your simple_shell directory
+1. `git clone https://github.com/CletsyMedia/alx-shell_test-suite.git` clone this repo into your simple_shell directory
 2. `mv alx-shell_test-suite/simple_shell_project TEST_SUITE` - Move the simple_shell_project directory to your simple_shell directory, renaming as TEST_SUITE
 3. `cd TEST_SUITE` - Navigate into the TEST_SUITE directory
 4. `chmod +x checker.bash runchecker.bash` - make them executable
