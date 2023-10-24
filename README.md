@@ -25,14 +25,6 @@
 5. `mv runchecker.bash ../runchecker.bash` - move runchecker.bash to your simple_shell directory.
 6. `cd ..` - Navigate back to simple_shell.
 7. `rm -rf alx-shell_test-suite` - Remove the residue files.
-8. Create a `.gitignore` file in your repo if you don't already have one and add these lines inside it
-
-```gitignore
-TEST_SUITES
-allowed_functions
-runchecker.bash
-```
-
 8. `./runchecker.bash` - to run the whole suite from task 1 - 16 at once.
 
 --- OPTIONS ---
